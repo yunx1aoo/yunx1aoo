@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Vincent** — a CTF Player
+I'm **Vincent**
 
 ## About Me
 - Active in Capture The Flag competitions.
