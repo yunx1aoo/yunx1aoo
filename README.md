@@ -7,6 +7,6 @@ I'm **Vincent**
 - Language: Python, C, C++, java Script.
 - Currently learning: Reverse & Binary.
 
-> *"no pwn no life"*
+> *no pwn no life*
 
 ###### Since:`17 July 2025`
